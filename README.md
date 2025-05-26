@@ -37,8 +37,8 @@ I am currently focused on building a strong foundation in the field of network s
 ## 📜 Certifications
 
 <p align="center">
-  <a href="https://github.com/Abdo-ej/Certifications/blob/main/Cybersecurity-Essentials-Certificate.png">
-    <img src="https://img.shields.io/badge/Cybersecurity%20Essentials-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white" />
+  <a href="https://github.com/Abdo-ej/Certifications/blob/main/Certificat.png">
+    <img src="https://img.shields.io/badge/-Cisco-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
   </a>
 </p>
 
