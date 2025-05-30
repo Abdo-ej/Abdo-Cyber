@@ -44,3 +44,9 @@ I am currently focused on building a strong foundation in the field of network s
 
 
 ---
+
+## 📁 My Cybersecurity Projects
+
+- 🔍 [Malware Traffic Analysis (Wireshark)](https://github.com/Abdo-ej/malware-traffic-analysis)
+  > PCAP analysis lab using Wireshark to identify infected IP, MAC, hostname, and C2 communication.
+
